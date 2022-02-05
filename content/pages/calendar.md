@@ -4,20 +4,184 @@ title: Calendar
 uid: 676475f2-9863-e960-f5a5-17120c10584c
 ---
 
-| LEC # | TOPICS | SUBTOPICS |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**I. Organizations and Organization Theory**{{< /td-colspan >}} |||
-| 1 | Organizations: Definitions, Evolution, and Current Developments | Orientation: Introductions, Expectations, Course Structure, Assignments  {{< br >}}  {{< br >}}Organizations: Definitions,  {{< br >}}Evolution, and Current Developments |
-| 2 | Organization Theory: Historical, Conceptual and Occupational Trends | &nbsp; |
-| 3 | Debating Contemporary Organization Theory | Theory and Theorizing  {{< br >}}  {{< br >}}Pluralism and its Discontents |
-| {{< td-colspan 3 >}}**II. Main Contemporary Conceptual Frameworks**{{< /td-colspan >}} |||
-| 4 | Structural Contingency and Resource Dependence Theories | Structural Contingency Theory  {{< br >}}  {{< br >}}Resource Dependence Theory |
-| 5 | Social Network Analysis | &nbsp; |
-| 6 | New Institutionalism | &nbsp; |
-| 7 | Organizational Ecology | &nbsp; |
-| {{< td-colspan 3 >}}**III. Technology and Professions**{{< /td-colspan >}} |||
-| 8 | Technology in the Workplace | &nbsp; |
-| 9 | Professional Work | &nbsp; |
-| {{< td-colspan 3 >}}**IV. Students' Projects**{{< /td-colspan >}} |||
-| 10 | Class Presentation and Discussion of Students' Term-Papers | &nbsp; |
-| 11 | Class Presentation and Discussion of Students' Term-Papers (cont.) |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+SUBTOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**I. Organizations and Organization Theory**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Organizations: Definitions, Evolution, and Current Developments
+{{< tdclose >}}
+{{< tdopen >}}
+Orientation: Introductions, Expectations, Course Structure, Assignments  
+  
+Organizations: Definitions,  
+Evolution, and Current Developments
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Organization Theory: Historical, Conceptual and Occupational Trends
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Debating Contemporary Organization Theory
+{{< tdclose >}}
+{{< tdopen >}}
+Theory and Theorizing  
+  
+Pluralism and its Discontents
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**II. Main Contemporary Conceptual Frameworks**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Structural Contingency and Resource Dependence Theories
+{{< tdclose >}}
+{{< tdopen >}}
+Structural Contingency Theory  
+  
+Resource Dependence Theory
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Social Network Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+New Institutionalism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Organizational Ecology
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**III. Technology and Professions**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Technology in the Workplace
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Professional Work
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**IV. Students' Projects**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Class Presentation and Discussion of Students' Term-Papers
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Class Presentation and Discussion of Students' Term-Papers (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
